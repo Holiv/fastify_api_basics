@@ -10,7 +10,7 @@
 
 # Fastify API
 
-Small API created for educational porposes while learning Fastify using in memory data
+Small API created for educational purposes while learning Fastify using in memory data
 
 1. Setup
 2. Routes
